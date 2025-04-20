@@ -1,6 +1,6 @@
 # Docs MCP Server
 
-This repository contains an implementation of a Model Context Protocol (MCP) server for educational purposes. This code demonstrates how to build a functional MCP server that can integrate with various LLM clients.
+This repository contains an implementation of a Model Context Protocol (MCP) server. 
 
 This MCP server   
 """
